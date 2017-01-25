@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<meta charset = "UTF-8"/>
+	    <title>Pokémon DAW</title>
+	    <!--  
+	    Insertar Favicon
+	    <link rel="shortcut icon" type="image/x-icon" href="app/view/img/favicon.gif"/> 
+		-->
+	    <link href='view/css/header.css' rel='stylesheet' type='text/css'>
+	    <link href='view/css/footer.css' rel='stylesheet' type='text/css'>
+	    <link href='view/css/login.css' rel='stylesheet' type='text/css'>
+
+
+
+	</head>
+
+	<body>
+			
+	    <meta charset = "UTF-8"/>
+	    <title>Pokémon DAW</title>
+	    <!--  
+	    Insertar Favicon
+	    <link rel="shortcut icon" type="image/x-icon" href="app/view/img/favicon.gif"/> 
+		-->
+	    <link href='view/css/css2.css' rel='stylesheet' type='text/css'>
+		  	<img class="logo" src="view/img/logo.png" alt="logo">
+			<div class="menu">	
+				<nav>
+					<ul>
+						<li><a href="#">Hacks</a></li>
+						<li><a href="#">Financiación</a></li>
+						<li><a href="#">Smartwatch</a></li>
+						<li><a href="#">Perfil</a></li>
+
+					</ul>
+				</nav>
+			</div>
+
